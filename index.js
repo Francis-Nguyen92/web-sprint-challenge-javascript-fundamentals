@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-// The nested function can access variable internal because functions can access variables outside of there scope, but cannot go the opposite way from outside in.
+// The nested function can access variable internal because functions can access variables outside of there scope and variables made within a scope are able to be used within its block.
 
 
 
